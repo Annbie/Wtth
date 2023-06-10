@@ -1,5 +1,5 @@
-classes = 4
-train = /home/my_name/ts/train.txt
-valid = /home/my_name/ts/test.txt
-names = /home/my_name/ts/classes.names
-backup = backup
+{'classes': 4, 
+'train': '/content/Wtth/train.txt', 
+'val': '/content/Wtth/val.txt', 
+'names': {0: prohibitory, 1: danger, 2: mandatory, 3: other}, 
+'backup': '/content/Wtth/backup'}
